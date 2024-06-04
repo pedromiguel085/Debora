@@ -1,0 +1,52 @@
+body {
+   color: white;
+   background-color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+header img {
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   border: 5px solid rgb(163, 67, 163);
+}
+
+.center {
+   text-align: center;
+}
+
+h1 {
+   color: rgb(163, 67, 163);
+}
+
+h3 {
+   color: rgb(223, 91, 223);
+}
+
+.container {
+   padding: 0px 50px;
+}
+
+footer img {
+   width: 40px;
+   height: 40px;
+}
+
+a {
+   color: white;
+   text-decoration: none;
+}
+
+footer {
+   display: flex;
+   justify-content: center;
+}
+
+footer a {
+   margin: 20px;
+   text-align: center;
+}
+
+footer p {
+   margin-top: 20px;
+}
